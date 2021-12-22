@@ -1,3 +1,7 @@
-hello world
-hello chungu
-diff 확인용 수정
+# Git 명령어 모음
+
+## add
+
+## commit
+
+## push
